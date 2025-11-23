@@ -31,7 +31,7 @@
 
 1. **Clone the repository**
 ```bash
-[git clone https://github.com/lfish8857-tech/EQUI-EDU-AI-upgraded-prototype-]
+git clone https://github.com/lfish8857-tech/EQUI-EDU-AI-upgraded-prototype-
 cd EQUI_EDU_AI
 ```
 
