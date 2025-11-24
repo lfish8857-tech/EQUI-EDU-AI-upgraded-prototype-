@@ -344,5 +344,5 @@ Contributions welcome! To contribute:
 
 **Built with ❤️ for educational equity | Powered by Google Gemini AI**
  
-**Last Updated:** November 2025  
+
 **Status:** Production-Ready Prototype
